@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:700,400);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:900,400);
+
+.header{
+   padding: 30vh 10vw;
+
+}
+.header-img{
+  height:75vh;
+  width: 100%;
+  background-image: url("https://s3.amazonaws.com/www-assets.invisionapp.com/marketplace/assets/mp-hero-06.jpg")
+}
+.header-title {
+  color: white;
+  font-family: "Source-Sans-Pro 900",sans-serif;
+  font-size: 39px;
+  text-align: center;
+}
+.header-border{
+  width:79vw;
+  padding: 15px 15px 15px 15px;
+  border: 3px solid white;
+}
+.creator{
+  color: white;
+  margin-top: 2vh;
+  text-align: center;
+  font-size: 22px;
+  font-family: "Source-Sans-Pro 900",sans-serif;
+}
+
+.top-content{
+  display:flex;
+  justify-content: flex-end;
+
+}
